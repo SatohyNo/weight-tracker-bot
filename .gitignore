@@ -1,0 +1,4 @@
+# users' weight data is private
+weights.db*
+.venv/
+__pycache__/
